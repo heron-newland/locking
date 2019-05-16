@@ -32,7 +32,7 @@ atomic
 
 各种锁的效率对比图片:
 
-![]({{site.url}}/assets/images/lock_benchmark.png)
+![](https://github.com/heron-newland/locking/blob/master/lock_benchmark.png)
 
 
 ### 自旋锁
